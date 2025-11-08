@@ -1,0 +1,10 @@
+fullstack-app/
+ ├── backend/
+ │    ├── server.js
+ │    ├── package.json
+ ├── frontend/
+ │    ├── src/
+ │    ├── package.json
+ └── .github/
+      └── workflows/
+           └── deploy.yml
