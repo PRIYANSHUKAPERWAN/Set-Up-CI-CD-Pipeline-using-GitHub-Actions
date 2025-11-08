@@ -1,0 +1,11 @@
+ou push code to the main branch.
+
+GitHub Actions builds and tests your code automatically.
+
+The built project is uploaded as an artifact.
+
+GitHub connects to AWS EC2 via SSH.
+
+Code is pulled, dependencies installed, and server restarted with PM2.
+
+Your app is live instantly — zero manual deployment!
